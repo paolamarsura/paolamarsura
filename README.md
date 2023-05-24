@@ -9,7 +9,7 @@ And now, I'm study: Systems analysis and development at PUC Minas. <br>
 
 
 
-## ⬛️  Developing skills
+## 	:blue_book:  Developing skills
 <div align="center">
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -24,12 +24,12 @@ And now, I'm study: Systems analysis and development at PUC Minas. <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paolamarsura&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## ⬛️ GitHub Stats:
+## :computer:GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paolamarsura&theme=radical&hide_border=true) 
 ![](https://github-readme-stats.vercel.app/api?username=paolamarsura&theme=radical&hide_border=true&include_all_commits=false&count_private=true) 
 
 
-#### Contacts :iphone:
+### :iphone: Contacts 
 
 <p align="center">
     <a href="https://github.com/paolamarsura">
