@@ -4,7 +4,7 @@
 :octocat: Hey, welcome! I'm Paola Marsura Verreschi 
 <br/>
 🌍 Based in São Paulo, Brazil<br>
-👩🏻‍💻 I made a hard - but great - decision and changed my career: from health to tech. And now, I'm study Systems analysis and development at PUC Minas.<br>
+👩🏻‍💻 I made a hard - but great - decision and changed my career: from health to tech. And now, I'm study Systems analysis and development.<br>
 
 
 
