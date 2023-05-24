@@ -18,7 +18,7 @@ And now, I'm study: Systems analysis and development at PUC Minas. <br>
 
 ## ⬛️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=paolamarsura&theme=radical&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=paolamarsura&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paolamarsura&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-<a href="http://www.github.com/paolamarsura"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lyssacavalcanti&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br>
+<a href="http://www.github.com/paolamarsura"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=paolamarsura&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br>
 
 ## ⬛️ GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=paolamarsura&theme=discord&no-frame=false&no-bg=true&margin-w=4)
