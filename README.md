@@ -10,7 +10,7 @@
 
 ## 	:blue_book:  Developing skills
 
-`HTML` `CSS` `JavaScript` `Python` `SQL` `C#` `TypeScript`
+`HTML` `CSS` `JavaScript` `Python` `SQL` `NoSQL` `C#` `TypeScript` `PowerBI`
     
 
 
