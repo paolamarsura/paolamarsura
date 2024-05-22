@@ -4,13 +4,13 @@
 :octocat: Hey, welcome! I'm Paola Marsura Verreschi 
 <br/>
 🌍 Based in São Paulo, Brazil<br>
-👩🏻‍💻 I made a hard - but great - decision and changed my career: from health to tech. And now, I'm study Systems analysis and development.<br>
+👩🏻‍💻 I made a hard - but great - decision and changed my career: from health to tech. And now, I'm study Systems analysis and development. I'm a data enthusiast and focus my studies on data analysis and data engineering.<br>
 
 
 
 ## 	:blue_book:  Developing skills
 
-`HTML` `CSS` `JavaScript` `Python` `SQL` `NoSQL` `C#` `TypeScript` `PowerBI`
+ `Python` `SQL` `PowerBI` `NoSQL` `HTML` `CSS` `JavaScript` `C#` `TypeScript` 
     
 
 
